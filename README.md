@@ -15,7 +15,7 @@ Anaconda: https://www.anaconda.com/download/#windows from here download anaconda
 
 numpy: after installing python, tensorflow and anaconda open a command prompt using cmd or anaconda prompt, then type "conda install -c anaconda numpy" or "python -m pip install numpy" or "pip install numpy"
 
-opencv3 : open a anaconda prompt or command prompt the type "conda install -c conda-forge opencv" or ""
+opencv3 : open a anaconda prompt or command prompt then type "conda install -c conda-forge opencv" or follow this tutorial https://www.youtube.com/watch?v=9hb0gYCv3YI 
 
 All your installation done :)
 
