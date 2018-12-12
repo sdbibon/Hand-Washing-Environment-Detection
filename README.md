@@ -19,6 +19,10 @@ opencv3 : open a anaconda prompt or command prompt then type "conda install -c c
 
 All your installation done :)
 
+## Instructions before training the model
 
+(1). Download the github repository https://github.com/sdbibon/Hand-Washing-Environment-Detection.git as zip file and extract to anywhere you like.
+
+(2). Go the link https://drive.google.com/file/d/1lQJgadkiralHlTOIM-WlBuXROLQryQyU/view?usp=sharing and download the zip file. After that extract the bin, sample_img and trained_data in the folder where you extracted the github repository.
 
 
