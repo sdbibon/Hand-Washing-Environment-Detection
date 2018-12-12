@@ -1,4 +1,4 @@
-# Hand-Washing-Environment-Detection
+## Hand-Washing-Environment-Detection
 
 # Dependencies:
 
