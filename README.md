@@ -34,4 +34,28 @@ Now we have our cfg file, yolov2 and tiny yolo weights in bin folder and for tra
 
 ## Training the model
 
-(1). Now 
+(1). Training in tiny yolo
+
+Go to the directory where you extracted the github repository and open a command prompt or anaconda prompt.If you have tensorflow-gpu and want in train in gpu using tiny-yolo-voc weights then type
+
+"python flow --model cfg/tiny-yolo-voc-5c.cfg --load bin/tiny-yolo-voc.weights --train --annotation train/Annotations --dataset train/Images --gpu 0.8"
+
+If you want to train on cpu then type
+
+"python flow --model cfg/tiny-yolo-voc-5c.cfg --load bin/tiny-yolo-voc.weights --train --annotation train/Annotations --dataset train/Images"
+
+(2). Training in YOLOv2
+
+Go to the directory where you extracted the github repository and open a command prompt or anaconda prompt.If you have tensorflow-gpu and want in train in gpu using tiny-yolo-voc weights then type
+
+"python flow --model cfg/yolov2-voc-5c.cfg --load bin/yolov2-voc.weights --train --annotation train/Annotations --dataset train/Images --gpu 0.8"
+
+If you want to train on cpu then type
+
+"python flow --model cfg/yolov2-voc-5c.cfg --load bin/yolov2-voc.weights --train --annotation train/Annotations --dataset train/Images"
+
+If you want to train in tiny yolov2 then change the cfg instruction as yolov2-tiny-voc-5c.cfg and for weights yolov2-tiny-voc.weights
+
+If the training starts succefully then you will see this
+
+
