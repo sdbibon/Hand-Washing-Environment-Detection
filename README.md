@@ -56,6 +56,14 @@ If you want to train on cpu then type
 
 If you want to train in tiny yolov2 then change the cfg instruction as **yolov2-tiny-voc-5c.cfg** and for weights **yolov2-tiny-voc.weights**
 
-If the training starts succefully then you will see this
+(3). If the training starts succefully then you will see this
+
+![lll](https://user-images.githubusercontent.com/16569879/49894379-111cde00-fe0b-11e8-86b4-3bf760109e21.JPG)
+
+(4). Train until the average comes less than 1 or for better 0.5. After training your model you will see in the ckpt folder the new weights are generating.
+
+Now we can test our model. :)
+
+## Testing our model
 
 
