@@ -66,4 +66,15 @@ Now we can test our model. :)
 
 ## Testing our model
 
+(1). For testing in videos, place a video in the same extracted directory, name it as video1.mp4. Go to the directory where you extracted the github repository and open a command prompt or anaconda prompt. 
+
+Type the instructions:
+**"python flow --model cfg/tiny-yolo-voc-5c.cfg --load -1 --demo video1.mp4 --gpu 0.8"**
+or
+**"python flow --model cfg/yolov2-voc-5c.cfg --load -1 --demo video1.mp4 --gpu 0.8"**
+
+New video file named as video.mp4 will be created. There you can see the test results of detected Hands, Faucets, Sinks , Soap Dispensers or Stethoscopes
+
+
+
 
