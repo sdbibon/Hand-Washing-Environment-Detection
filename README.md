@@ -25,4 +25,13 @@ All your installation done :)
 
 (2). Go the link https://drive.google.com/file/d/1lQJgadkiralHlTOIM-WlBuXROLQryQyU/view?usp=sharing and download the zip file. After that extract the bin, sample_img and trained_data in the folder where you extracted the github repository.
 
+It will look like this
+![p](https://user-images.githubusercontent.com/16569879/49892716-ddd85000-fe06-11e8-848c-6d27b5bdbda8.JPG)
 
+(3). Go to your directory where you extarcted all the files and open a cmd. Then for isntalling cython type "conda install -c anaconda cython" and then type "python setup.py build_ext --inplace"
+
+Now we can start training :)
+
+## Training the model
+
+(1). 
