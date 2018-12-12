@@ -38,7 +38,7 @@ Now we have our cfg file, yolov2 and tiny yolo weights in bin folder and for tra
 
 Go to the directory where you extracted the github repository and open a command prompt or anaconda prompt.If you have tensorflow-gpu and want in train in gpu using tiny-yolo-voc weights then type
 
-**"python flow --model cfg/tiny-yolo-voc-5c.cfg --load bin/tiny-yolo-voc.weights --train --annotation trained_data/Annotations --dataset trained_data/Images --gpu 0.8" **
+**"python flow --model cfg/tiny-yolo-voc-5c.cfg --load bin/tiny-yolo-voc.weights --train --annotation trained_data/Annotations --dataset trained_data/Images --gpu 0.8"**
 
 If you want to train on cpu then type
 
