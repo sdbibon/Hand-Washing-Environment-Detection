@@ -56,7 +56,7 @@ If you want to train on cpu then type
 
 If you want to train in tiny yolov2 then change the cfg instruction as **yolov2-tiny-voc-5c.cfg** and for weights **yolov2-tiny-voc.weights**
 
-(3). If the training starts succefully then you will see this
+(3). If the training starts sucessfully then you will see this
 
 ![lll](https://user-images.githubusercontent.com/16569879/49894379-111cde00-fe0b-11e8-86b4-3bf760109e21.JPG)
 
@@ -73,7 +73,19 @@ Type the instructions:
 or
 **"python flow --model cfg/yolov2-voc-5c.cfg --load -1 --demo video1.mp4 --gpu 0.8"**
 
+For CPU use
+**"python flow --model cfg/tiny-yolo-voc-5c.cfg --load -1 --demo video1.mp4"**
+or
+**"python flow --model cfg/yolov2-voc-5c.cfg --load -1 --demo video1.mp4"**
+
+
 New video file named as video.mp4 will be created. There you can see the test results of detected Hands, Faucets, Sinks , Soap Dispensers or Stethoscopes
+
+## Final test result video
+
+(1). If the train is sucsessful then you can test by your own.
+For checking the test check the following video or go the folder test result videos
+[TinyYolo.zip](https://github.com/sdbibon/Hand-Washing-Environment-Detection/files/2673314/TinyYolo.zip)
 
 
 
