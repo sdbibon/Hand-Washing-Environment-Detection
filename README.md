@@ -1,10 +1,10 @@
-## Hand-Washing-Environment-Detection
+# Hand-Washing-Environment-Detection
 
-# Dependencies:
+## Dependencies:
 
 Python 3.6, tensorflow 1.0 with gpu, Anaconda, numpy, opencv 3 
 
-# Installation instruction:
+## Installation instruction:
 
 Python : https://www.python.org/downloads/
 
