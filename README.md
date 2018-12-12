@@ -28,7 +28,7 @@ All your installation done :)
 It will look like this
 ![p](https://user-images.githubusercontent.com/16569879/49892716-ddd85000-fe06-11e8-848c-6d27b5bdbda8.JPG)
 
-(3). Go to your directory where you extarcted all the files and open a cmd. Then for installing cython type "conda install -c anaconda cython" and then type "python setup.py build_ext --inplace"
+(3). Go to your directory where you extarcted all the files and open a cmd. Then for installing cython type **"conda install -c anaconda cython"** and then type **"python setup.py build_ext --inplace"**
 
 Now we have our cfg file, yolov2 and tiny yolo weights in bin folder and for training images and annotations(xmls). We can now start training :)
 
