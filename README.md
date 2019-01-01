@@ -89,7 +89,7 @@ New video file named as video.mp4 will be created. There you can see the test re
 For checking the test check the following video or go the folder test result videos
 [TinyYolo.zip](https://github.com/sdbibon/Hand-Washing-Environment-Detection/files/2673314/TinyYolo.zip)
 
-Some screenshot are givden below:
+Some screenshot are given below:
 
 ![fig16](https://user-images.githubusercontent.com/16569879/50575773-aa636280-0dc1-11e9-80cd-1aa4599044aa.jpg)
 
