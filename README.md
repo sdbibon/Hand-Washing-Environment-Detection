@@ -89,5 +89,6 @@ For checking the test check the following video or go the folder test result vid
 
 Some screenshot are givden below:
 
+![fig16](https://user-images.githubusercontent.com/16569879/50575773-aa636280-0dc1-11e9-80cd-1aa4599044aa.jpg)
 
 
